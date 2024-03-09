@@ -14,5 +14,5 @@ Arrow keys to navigate through the grid and numbers 0-9 to fill the current cell
 Current available colors: black, red, magenta, pink, cyan, blue, green, yellow, orange and white.
 
 
-This project makes use of Simple Graphics Library by <Academia de Código_> (now <Code for All_>.
+This project makes use of Simple Graphics Library by <Academia de Código_> (now <Code for All_> ).
 https://github.com/academia-de-codigo/simple-graphics
