@@ -2,7 +2,7 @@
 
 a lightweight Java application that allows you to create pixel art with ease.
 
-//This project is currently under development
+// This project is currently under development
 
 Features:
 
