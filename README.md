@@ -15,4 +15,5 @@ Current available colors: black, red, magenta, pink, cyan, blue, green, yellow, 
 
 
 This project makes use of Simple Graphics Library by <Academia de Código_> (now <CodeforAll_> ).
+
 https://github.com/academia-de-codigo/simple-graphics
