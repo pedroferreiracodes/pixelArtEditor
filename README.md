@@ -4,7 +4,7 @@ a lightweight Java application that allows you to create pixel art with ease.
 
 // This project is currently under development
 
-Features:
+**Features:**
 
 Customizable grid size: Tailor the canvas to your desired pixel art dimensions.
 Color palette: Choose from a selection of colors to bring your artwork to life.
